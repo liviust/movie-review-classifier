@@ -1,4 +1,4 @@
-# movie-review-classifier
-Movie review classifier built with Flask (from Rashcha's Python Machine Learning)
+# Movie Review Sentiment Classifier
+Logistic regression classifier of movie review sentiment built with Flask (from Rashcha's Python Machine Learning)
 
-Example on pythonanywhere server: http://rdcolema.pythonanywhere.com/
+Hosted example on pythonanywhere server: http://rdcolema.pythonanywhere.com/
